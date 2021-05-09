@@ -31,7 +31,3 @@ instagram = "#"
 linkedin = "#"
 twitter = "#"
 yelp = "#"
-[taxonomies]
-author = "author"
-category = "categories"
-tag = "tags"

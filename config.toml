@@ -36,3 +36,7 @@ name = "Sample Page"
 weight = 5
 [outputs]
 home = ["HTML", "RSS", "JSON"]
+[taxonomies]
+author = "author"
+category = "categories"
+tag = "tags"

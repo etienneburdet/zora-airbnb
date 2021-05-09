@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: params.toml
+  path: conifg/_default/params.toml
   label: Accueil
 - type: heading
   label: Pages chambres
@@ -43,7 +43,7 @@ sections:
 - type: heading
   label: Configuration
 - type: document
-  path: config.toml
+  path: config/_default/config.toml
   label: Configuration
 upload_dir: static/images
 public_path: "/images"

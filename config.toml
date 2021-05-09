@@ -45,11 +45,11 @@ image = "images/2020-landscape-1-2.png"
 [params.blog]
 heading = "Quatres chambres dans un cadre unique, verdoyant et fleuri. Proche de tous les moyens de transports ( Bus, Tram, Métro, Vélo, Motolyb, voiture de location à l’heure).\n\nVous trouverez le charme de Paris et le plaisir que donne la campagne."
 [params.call_to_action]
-button_label = "Contact Us"
+button_label = "Contactez nous"
 button_url = "contact"
-content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis"
+content = "Consultez les disponibilités"
 enable = true
-title = "Contact us for more information."
+title = "Réservez maintenant"
 [params.footer]
 address = "123 Main Street <br> New York, NY 10001"
 content = "This may be a good place to introduce yourself and your site or include some credits."

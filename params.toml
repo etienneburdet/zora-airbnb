@@ -3,7 +3,7 @@ author = "Zohra Crozat"
 description = "Chambres avec jardins à Paris"
 [params.banner]
 heading = "Une smaison d'exception, avec jardin dans Paris"
-image = "images/2020-landscape-1-2.png"
+image = "images/ferber-front.webp"
 [params.blog]
 heading = "Quatres chambres dans un cadre unique, verdoyant et fleuri. Proche de tous les moyens de transports ( Bus, Tram, Métro, Vélo, Motolyb, voiture de location à l’heure).\n\nVous trouverez le charme de Paris et le plaisir que donne la campagne."
 [params.call_to_action]

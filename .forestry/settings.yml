@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: conifg/_default/params.toml
+  path: config/_default/params.toml
   label: Accueil
 - type: heading
   label: Pages chambres
